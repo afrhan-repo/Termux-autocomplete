@@ -12,3 +12,23 @@ Auto suggestions in Termux can be enabled by installing a shell called `fish`. H
 5. Once you restart, start typing a command and you should see suggestions pop up automatically based on what you've typed so far.
 
 Note that while `fish` provides powerful autocomplete functionality, it may take some time to get used to if you're used to a different shell like `bash`.
+
+### How to install
+
+```bash
+
+# First, clone this repository by typing...
+
+git clone https://github.com/afrhan-repo/Termux-autocomplete/
+
+# Change to Termux-autocomplete directory
+
+cd Termux-autocomplete
+
+# Run install.sh script
+
+bash install.sh
+
+# And Done, Termux-autocomplete is successfully installed on your termux.
+
+```
