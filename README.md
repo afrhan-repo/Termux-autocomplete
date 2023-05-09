@@ -31,4 +31,5 @@ bash install.sh
 
 # And Done, Termux-autocomplete is successfully installed on your termux.
 
+# Now restart your Termux app and enjoy.
 ```
